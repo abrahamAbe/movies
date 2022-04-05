@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const RemoveFavorites = () => {
 	return (
@@ -22,7 +22,7 @@ const RemoveFavorites = () => {
 				/>
 			</svg>
 		</>
-	);
-};
+	)
+}
 
-export default RemoveFavorites;
+export default RemoveFavorites

@@ -1,7 +1,8 @@
-import React from 'react';
+import React from 'react'
 
 const MovieList = (props) => {
-    const FavoriteComponent = props.favoriteComponent;
+    const FavoriteComponent = props.favoriteComponent
+
 	return (
 		<>
 			{ props.movies.map((movie, index) => (
@@ -14,7 +15,7 @@ const MovieList = (props) => {
 				</div>
 			))}
 		</>
-	);
-};
+	)
+}
 
-export default MovieList;
+export default MovieList

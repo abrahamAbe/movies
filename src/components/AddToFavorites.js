@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const AddToFavorites = () => {
 	return (
@@ -20,7 +20,7 @@ const AddToFavorites = () => {
 				</svg>
 			</div>
 		</>
-	);
-};
+	)
+}
 
-export default AddToFavorites;
+export default AddToFavorites
